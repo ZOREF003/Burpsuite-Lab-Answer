@@ -24,6 +24,6 @@
 - HTTP Host header attacks
 - OAuth authentication
 - File upload vulnerabilities
-- JWT
+- JWT (Jason Web Token)
 - Essential skills
 - Prototype pollution
